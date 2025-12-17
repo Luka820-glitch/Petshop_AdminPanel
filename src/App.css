@@ -1,0 +1,10 @@
+.navigation {
+  display: flex;
+  gap: 20px;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+body {
+  background: linear-gradient(90deg, #4CE0D7 0%, #f46278 100%);
+}
